@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factory>
+    <mapping>
+        <province>/valid.execute</province>
+        <action>com.zakaria.Login</action>
+    </mapping>
+    <mapping>
+        <province>/logout.execute</province>
+        <action>com.zakaria.Logout</action>
+    </mapping>
+</factory>
